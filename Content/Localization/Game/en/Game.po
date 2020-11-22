@@ -1,0 +1,421 @@
+﻿# Game English translation.
+# Copyright Epic Games, Inc. All Rights Reserved.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2020-11-14 05:49\n"
+"PO-Revision-Date: 2020-11-14 05:49\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Key:	0117BD764FF88D762B9596AE5DAA9180
+#. SourceLocation:	/Game/JamMap.JamMap:PersistentLevel.TaskTelega.remindText
+#: /Game/JamMap.JamMap:PersistentLevel.TaskTelega.remindText
+msgctxt ",0117BD764FF88D762B9596AE5DAA9180"
+msgid "Всё рассыпалось! Что же делать?"
+msgstr "Everything fell apart! What to do?"
+
+#. Key:	01814EAB4FA3D41E74A764BF72DE9D3F
+#. SourceLocation:	/Game/JamMap.JamMap:PersistentLevel.TaskMillie.successText
+#: /Game/JamMap.JamMap:PersistentLevel.TaskMillie.successText
+msgctxt ",01814EAB4FA3D41E74A764BF72DE9D3F"
+msgid "Какая ювелирная точность! Спасибо!"
+msgstr "Such a jewelry precision! Thanks!"
+
+#. Key:	0B3272144D95AA756188AA9554723FD1
+#. SourceLocation:	/Game/GameMap1.GameMap1:PersistentLevel.TaskMillie.startText
+#: /Game/GameMap1.GameMap1:PersistentLevel.TaskMillie.startText
+msgctxt ",0B3272144D95AA756188AA9554723FD1"
+msgid "Кажется, этой мельнице не хватает лопасти..."
+msgstr "This mill seems to be missing a blade..."
+
+#. Key:	0C93C9A643EA640BACA8B78C457E9AD7
+#. SourceLocation:	/Game/GameMap1.GameMap1:PersistentLevel.TaskTelega.failText
+#: /Game/GameMap1.GameMap1:PersistentLevel.TaskTelega.failText
+msgctxt ",0C93C9A643EA640BACA8B78C457E9AD7"
+msgid "Ой, ты все сломал... снова"
+msgstr "Oh, you broke it all... again"
+
+#. Key:	103828CC415D7EA59B38EB91443E921B
+#. SourceLocation:	/Game/GameMap1.GameMap1:PersistentLevel.TaskPereezd.failText
+#: /Game/GameMap1.GameMap1:PersistentLevel.TaskPereezd.failText
+msgctxt ",103828CC415D7EA59B38EB91443E921B"
+msgid "Мой домик рухнул... Придётся пожить у соседей, пока не построю новый."
+msgstr "My house collapsed... I'll have to live with my neighbors until I build a new one."
+
+#. Key:	1433745B4BB0836675DDBE9F2E66B68C
+#. SourceLocation:	/Game/GameMap1.GameMap1:PersistentLevel.TaskMillie.remindText
+#: /Game/GameMap1.GameMap1:PersistentLevel.TaskMillie.remindText
+msgctxt ",1433745B4BB0836675DDBE9F2E66B68C"
+msgid "Нужно найти лопасть для мельницы."
+msgstr "We need to find a blade for the mill."
+
+#. Key:	143B62C047653EA10FF81593D833E1C5
+#. SourceLocation:	/Game/BP/UI/Dialog.Dialog_C:WidgetTree.TextBlock_640.Text
+#: /Game/BP/UI/Dialog.Dialog_C:WidgetTree.TextBlock_640.Text
+msgctxt ",143B62C047653EA10FF81593D833E1C5"
+msgid "Закрыть"
+msgstr "Close"
+
+#. Key:	19FF71AA45FC654F29BA61A520BC4FE1
+#. SourceLocation:	/Game/GameMap1.GameMap1:PersistentLevel.TaskTelega.remindText
+#: /Game/GameMap1.GameMap1:PersistentLevel.TaskTelega.remindText
+msgctxt ",19FF71AA45FC654F29BA61A520BC4FE1"
+msgid "Всё рассыпалось! Что же делать?"
+msgstr "Everything fell apart! What to do?"
+
+#. Key:	1AC4A5324B2D80A1987F1C999565FDFD
+#. SourceLocation:	/Game/GameMap1.GameMap1:PersistentLevel.TaskStone.remindText
+#: /Game/GameMap1.GameMap1:PersistentLevel.TaskStone.remindText
+msgctxt ",1AC4A5324B2D80A1987F1C999565FDFD"
+msgid "Кто-то очень сильно хочет выбраться из-под этого камня"
+msgstr "Someone really wants to get out from under this stone"
+
+#. Key:	268AA43B46A987F9A9C9FF9B96477D5E
+#. SourceLocation:	/Game/GameMap1.GameMap1:PersistentLevel.TaskStone.successText
+#: /Game/GameMap1.GameMap1:PersistentLevel.TaskStone.successText
+msgctxt ",268AA43B46A987F9A9C9FF9B96477D5E"
+msgid "Спасибо что спас моего друга! Что бы мы делали без вас?"
+msgstr "Thanks for saving my friend! What would we do without you?"
+
+#. Key:	295961D5469FC39FA02ECAA4BE0CB8DC
+#. SourceLocation:	/Game/JamMap.JamMap:PersistentLevel.TaskStone.remindText
+#: /Game/JamMap.JamMap:PersistentLevel.TaskStone.remindText
+msgctxt ",295961D5469FC39FA02ECAA4BE0CB8DC"
+msgid "Кто-то очень сильно хочет выбраться из-под этого камня"
+msgstr "Someone really wants to get out from under this stone"
+
+#. Key:	2F2E029B472788C3D5F3FCB8135E8071
+#. SourceLocation:	/Game/GameMap1.GameMap1:PersistentLevel.TaskStone.startText
+#: /Game/GameMap1.GameMap1:PersistentLevel.TaskStone.startText
+msgctxt ",2F2E029B472788C3D5F3FCB8135E8071"
+msgid "Кто-то очень сильно хочет выбраться из-под этого камня"
+msgstr "Someone really wants to get out from under this stone"
+
+#. Key:	3185C38E46A143BDF8BF938D69CC4812
+#. SourceLocation:	/Game/JamMap.JamMap:PersistentLevel.TaskChelikPagoda.successText
+#: /Game/JamMap.JamMap:PersistentLevel.TaskChelikPagoda.successText
+msgctxt ",3185C38E46A143BDF8BF938D69CC4812"
+msgid "Ни за что больше не свалюсь. Спасибо!"
+msgstr "I will never fall over again. Thanks!"
+
+#. Key:	33C5CD7A4AE80FC90029B090BBB92835
+#. SourceLocation:	/Game/GameMap1.GameMap1:PersistentLevel.TaskTelega.successText
+#: /Game/GameMap1.GameMap1:PersistentLevel.TaskTelega.successText
+msgctxt ",33C5CD7A4AE80FC90029B090BBB92835"
+msgid "Ура! Теперь всё на своих местах."
+msgstr "Hooray! Now everything is in place."
+
+#. Key:	3860F04F4F75B323D1190DA84E79F5BE
+#. SourceLocation:	/Game/GameMap1.GameMap1:PersistentLevel.TaskMillie.failText
+#: /Game/GameMap1.GameMap1:PersistentLevel.TaskMillie.failText
+msgctxt ",3860F04F4F75B323D1190DA84E79F5BE"
+msgid "Что ж, со временем мы построим новую"
+msgstr "Well, in time we will build a new one"
+
+#. Key:	39445D11437EDD12D172BB8F98FAAB0E
+#. SourceLocation:	/Game/BP/UI/Welcome.Welcome_C:WidgetTree.TextBlock_640.Text
+#: /Game/BP/UI/Welcome.Welcome_C:WidgetTree.TextBlock_640.Text
+msgctxt ",39445D11437EDD12D172BB8F98FAAB0E"
+msgid "ХОРОШО"
+msgstr "CLOSE"
+
+#. Key:	3EEB92B84387BE9773FDD4B71105AB16
+#. SourceLocation:	/Game/BP/UI/Welcome.Welcome_C:WidgetTree.TextBlock_426.Text
+#: /Game/BP/UI/Welcome.Welcome_C:WidgetTree.TextBlock_426.Text
+msgctxt ",3EEB92B84387BE9773FDD4B71105AB16"
+msgid "Что это у нас тут? Какие крохи! Лучше не трогать их руками, давайте возьмём инструмент потоньше и посмотрим, чем мы можем им помочь.\r\n\r\nВам предстоит лёгкими штрихами навести порядок в этом мире. Будьте очень аккуратны! Сломать — легко, а починить — гораздо сложнее.\r\n\r\nEscape — смотреть управление."
+msgstr "What do we have here? What a cuties! It's better not to touch them with your hands, let's take a thinner tool and see how we can help them.\r\n\r\nYou have to bring order to this world with light strokes. Be very careful! It is easy to break, and much more difficult to fix.\r\n\r\nEscape - watch controls."
+
+#. Key:	49DD7B7D4BFD76B4394BC9AA56F18714
+#. SourceLocation:	/Game/GameMap1.GameMap1:PersistentLevel.TaskPereezd.successText
+#: /Game/GameMap1.GameMap1:PersistentLevel.TaskPereezd.successText
+msgctxt ",49DD7B7D4BFD76B4394BC9AA56F18714"
+msgid "Какой чудесный вид! Я так благодарен!"
+msgstr "What a wonderful view! I am so grateful!"
+
+#. Key:	4AD197B24F33A4A6041AB3880E6D1BCA
+#. SourceLocation:	/Game/GameMap1.GameMap1:PersistentLevel.TaskChelikPagoda.successText
+#: /Game/GameMap1.GameMap1:PersistentLevel.TaskChelikPagoda.successText
+msgctxt ",4AD197B24F33A4A6041AB3880E6D1BCA"
+msgid "Ни за что больше не свалюсь. Спасибо!"
+msgstr "I will never fall over again. Thanks!"
+
+#. Key:	4C1D25BA4732C73DB15309855AB6F2E7
+#. SourceLocation:	/Game/JamMap.JamMap:PersistentLevel.TaskPereezd.successText
+#: /Game/JamMap.JamMap:PersistentLevel.TaskPereezd.successText
+msgctxt ",4C1D25BA4732C73DB15309855AB6F2E7"
+msgid "Какой чудесный вид! Я так благодарен!"
+msgstr "What a wonderful view! I am so grateful!"
+
+#. Key:	531BE7B94B883CBA642B5D9EF0A48EB3
+#. SourceLocation:	/Game/GameMap1.GameMap1:PersistentLevel.TaskPereezd.startText
+#: /Game/GameMap1.GameMap1:PersistentLevel.TaskPereezd.startText
+msgctxt ",531BE7B94B883CBA642B5D9EF0A48EB3"
+msgid "Всегда мечтал жить повыше. Вот бы кто-нибудь перенёс меня вместе с домом поближе к верёвочному мосту!"
+msgstr "I always dreamed of living higher. I wish someone would carry me along with the house closer to the rope bridge!"
+
+#. Key:	541388224C0569ABDA35AF8392C85089
+#. SourceLocation:	/Game/GameMap1.GameMap1:PersistentLevel.TaskMillie.successText
+#: /Game/GameMap1.GameMap1:PersistentLevel.TaskMillie.successText
+msgctxt ",541388224C0569ABDA35AF8392C85089"
+msgid "Какая ювелирная точность! Спасибо!"
+msgstr "Such a jewelry precision! Thanks!"
+
+#. Key:	5BA44564472E0E8C6B449291FDB5C9D2
+#. SourceLocation:	/Game/JamMap.JamMap:PersistentLevel.TaskTelega.successText
+#: /Game/JamMap.JamMap:PersistentLevel.TaskTelega.successText
+msgctxt ",5BA44564472E0E8C6B449291FDB5C9D2"
+msgid "Ура! Теперь всё на своих местах."
+msgstr "Hooray! Now everything is in place."
+
+#. Key:	5E7DCC8C474464DC5EACCC8F963AF65D
+#. SourceLocation:	/Game/JamMap.JamMap:PersistentLevel.TaskChelikPagoda.remindText
+#: /Game/JamMap.JamMap:PersistentLevel.TaskChelikPagoda.remindText
+msgctxt ",5E7DCC8C474464DC5EACCC8F963AF65D"
+msgid "Пожалуйста, поднимите меня к храму!"
+msgstr "Please take me to the temple!"
+
+#. Key:	5FCA60824289CED8CDCFEEA5ACDA1A20
+#. SourceLocation:	/Game/GameMap1.GameMap1:PersistentLevel.TaskStone.failText
+#: /Game/GameMap1.GameMap1:PersistentLevel.TaskStone.failText
+msgctxt ",5FCA60824289CED8CDCFEEA5ACDA1A20"
+msgid "Ну что ты натворил?"
+msgstr "What have you done?"
+
+#. Key:	64B030084F67E6A2D797FBBED12B2430
+#. SourceLocation:	/Game/GameMap1.GameMap1:PersistentLevel.TaskChelikPagoda.startText
+#: /Game/GameMap1.GameMap1:PersistentLevel.TaskChelikPagoda.startText
+msgctxt ",64B030084F67E6A2D797FBBED12B2430"
+msgid "Помогите! Я застрял здесь! Поднимите меня к храму!"
+msgstr "Help! I'm stuck here! Take me to the temple!"
+
+#. Key:	6E7F0CFF45478FE6AE25F98778D2621A
+#. SourceLocation:	/Game/JamMap.JamMap:PersistentLevel.TaskStone.successText
+#: /Game/JamMap.JamMap:PersistentLevel.TaskStone.successText
+msgctxt ",6E7F0CFF45478FE6AE25F98778D2621A"
+msgid "Спасибо что спас моего друга! Что бы мы делали без вас?"
+msgstr "Thanks for saving my friend! What would we do without you?"
+
+#. Key:	71DF104B425B6493A17C6190DB16E513
+#. SourceLocation:	/Game/JamMap.JamMap:PersistentLevel.TaskPereezd.startText
+#: /Game/JamMap.JamMap:PersistentLevel.TaskPereezd.startText
+msgctxt ",71DF104B425B6493A17C6190DB16E513"
+msgid "Всегда мечтал жить повыше. Вот бы кто-нибудь перенёс меня вместе с домом поближе к верёвочному мосту!"
+msgstr "I always dreamed of living higher. I wish someone would carry me along with the house closer to the rope bridge!"
+
+#. Key:	7479828C44117117BE2472BC45B31CAD
+#. SourceLocation:	/Game/JamMap.JamMap:PersistentLevel.TaskStone.failText
+#: /Game/JamMap.JamMap:PersistentLevel.TaskStone.failText
+msgctxt ",7479828C44117117BE2472BC45B31CAD"
+msgid "Ну что ты натворил?"
+msgstr "What have you done?"
+
+#. Key:	7809618C45F51E895E0ABFACA1ECFD23
+#. SourceLocation:	/Game/BP/UI/Menu.Menu_C:WidgetTree.TextBlock.Text
+#: /Game/BP/UI/Menu.Menu_C:WidgetTree.TextBlock.Text
+msgctxt ",7809618C45F51E895E0ABFACA1ECFD23"
+msgid "ВЫХОД"
+msgstr "EXIT"
+
+#. Key:	97E72DF948766CB0651507876BEAAB40
+#. SourceLocation:	/Game/JamMap.JamMap:PersistentLevel.TaskTelega.failText
+#: /Game/JamMap.JamMap:PersistentLevel.TaskTelega.failText
+msgctxt ",97E72DF948766CB0651507876BEAAB40"
+msgid "Ой, ты все сломал... снова"
+msgstr "Oh, you broke it all... again"
+
+#. Key:	998A3C8940AE30023CDBC381D6A1FA29
+#. SourceLocation:	/Game/JamMap.JamMap:PersistentLevel.TaskPereezd.remindText
+#: /Game/JamMap.JamMap:PersistentLevel.TaskPereezd.remindText
+msgctxt ",998A3C8940AE30023CDBC381D6A1FA29"
+msgid "Всегда мечтал жить повыше. Вот бы кто-нибудь перенёс меня вместе с домом поближе к верёвочному мосту!"
+msgstr "I always dreamed of living higher. I wish someone would carry me along with the house closer to the rope bridge!"
+
+#. Key:	9AE032224A5E30BDEB7EDEA8F4738E4E
+#. SourceLocation:	/Game/GameMap1.GameMap1:PersistentLevel.TaskChelikPagoda.failText
+#: /Game/GameMap1.GameMap1:PersistentLevel.TaskChelikPagoda.failText
+msgctxt ",9AE032224A5E30BDEB7EDEA8F4738E4E"
+msgid "О нет. Наш храм. Конечно, всё к лучшему, но всё же..."
+msgstr "Oh no. Our temple. Of course, everything is for the best, but still..."
+
+#. Key:	9EBDA84B4F64125774DADFAFB37D8301
+#. SourceLocation:	/Game/BP/UI/Menu.Menu_C:WidgetTree.TextBlock_640.Text
+#: /Game/BP/UI/Menu.Menu_C:WidgetTree.TextBlock_640.Text
+msgctxt ",9EBDA84B4F64125774DADFAFB37D8301"
+msgid "ЕЩЁ РАЗ"
+msgstr "RELOAD"
+
+#. Key:	A382DFD344CF5AE318C28591298F4CEA
+#. SourceLocation:	/Game/JamMap.JamMap:PersistentLevel.TaskStone.startText
+#: /Game/JamMap.JamMap:PersistentLevel.TaskStone.startText
+msgctxt ",A382DFD344CF5AE318C28591298F4CEA"
+msgid "Кто-то очень сильно хочет выбраться из-под этого камня"
+msgstr "Someone really wants to get out from under this stone"
+
+#. Key:	AD78E3454867A3AE955B1EB998939247
+#. SourceLocation:	/Game/JamMap.JamMap:PersistentLevel.TaskMillie.startText
+#: /Game/JamMap.JamMap:PersistentLevel.TaskMillie.startText
+msgctxt ",AD78E3454867A3AE955B1EB998939247"
+msgid "Кажется, этой мельнице не хватает лопасти..."
+msgstr "This mill seems to be missing a blade..."
+
+#. Key:	AEADCCC947E13B29A160C3AB429C74E6
+#. SourceLocation:	/Game/JamMap.JamMap:PersistentLevel.TaskChelikPagoda.failText
+#: /Game/JamMap.JamMap:PersistentLevel.TaskChelikPagoda.failText
+msgctxt ",AEADCCC947E13B29A160C3AB429C74E6"
+msgid "О нет. Наш храм. Конечно, всё к лучшему, но всё же..."
+msgstr "Oh no. Our temple. Of course, everything is for the best, but still..."
+
+#. Key:	B4DAB18F44F2940435E1329D6A120D3B
+#. SourceLocation:	/Game/JamMap.JamMap:PersistentLevel.TaskMillie.remindText
+#: /Game/JamMap.JamMap:PersistentLevel.TaskMillie.remindText
+msgctxt ",B4DAB18F44F2940435E1329D6A120D3B"
+msgid "Нужно найти лопасть для мельницы."
+msgstr "We need to find a blade for the mill."
+
+#. Key:	B5A70BE844300F27E0B231BDA1DD8709
+#. SourceLocation:	/Game/JamMap.JamMap:PersistentLevel.TaskTelega.startText
+#: /Game/JamMap.JamMap:PersistentLevel.TaskTelega.startText
+msgctxt ",B5A70BE844300F27E0B231BDA1DD8709"
+msgid "Всё рассыпалось! Что же делать?"
+msgstr "Everything fell apart! What to do?"
+
+#. Key:	B68C96684B41E6C5EBCB97ABDB17E62B
+#. SourceLocation:	/Game/BP/UI/Menu.Menu_C:WidgetTree.TextBlock_1.Text
+#: /Game/BP/UI/Menu.Menu_C:WidgetTree.TextBlock_1.Text
+msgctxt ",B68C96684B41E6C5EBCB97ABDB17E62B"
+msgid "Закрыть"
+msgstr "Close"
+
+#. Key:	C0774BE74F6E3F7A983788A796580C09
+#. SourceLocation:	/Game/GameMap1.GameMap1:PersistentLevel.TaskPereezd.remindText
+#: /Game/GameMap1.GameMap1:PersistentLevel.TaskPereezd.remindText
+msgctxt ",C0774BE74F6E3F7A983788A796580C09"
+msgid "Всегда мечтал жить повыше. Вот бы кто-нибудь перенёс меня вместе с домом поближе к верёвочному мосту!"
+msgstr "I always dreamed of living higher. I wish someone would carry me along with the house closer to the rope bridge!"
+
+#. Key:	C0A0BAA444E6DA1949CC7FA8193F9D7C
+#. SourceLocation:	/Game/BP/UI/Menu.Menu_C:WidgetTree.TextBlock_94.Text
+#: /Game/BP/UI/Menu.Menu_C:WidgetTree.TextBlock_94.Text
+msgctxt ",C0A0BAA444E6DA1949CC7FA8193F9D7C"
+msgid "Смотрим из далека:\r\nA — D: вращайте камеру\r\nMouse Click: выберите область,\r\nчтобы взглянуть на неё поближе."
+msgstr "When look from afar:\r\nA - D: rotate the camera\r\nMouse Click: Select the area\r\nto get a closer look."
+
+#. Key:	C7A8F7694961C3071D0F97B32AB8E97F
+#. SourceLocation:	/Game/JamMap.JamMap:PersistentLevel.TaskChelikPagoda.startText
+#: /Game/JamMap.JamMap:PersistentLevel.TaskChelikPagoda.startText
+msgctxt ",C7A8F7694961C3071D0F97B32AB8E97F"
+msgid "Помогите! Я застрял здесь! Поднимите меня к храму!"
+msgstr "Help! I'm stuck here! Take me to the temple!"
+
+#. Key:	DD0735114700DD6BC0AF2AB41F61FF37
+#. SourceLocation:	/Game/GameMap1.GameMap1:PersistentLevel.TaskTelega.startText
+#: /Game/GameMap1.GameMap1:PersistentLevel.TaskTelega.startText
+msgctxt ",DD0735114700DD6BC0AF2AB41F61FF37"
+msgid "Всё рассыпалось! Что же делать?"
+msgstr "Everything fell apart! What to do?"
+
+#. Key:	F1E0E88645C3ECEAB58B83AEF2B3ADD7
+#. SourceLocation:	/Game/GameMap1.GameMap1:PersistentLevel.TaskChelikPagoda.remindText
+#: /Game/GameMap1.GameMap1:PersistentLevel.TaskChelikPagoda.remindText
+msgctxt ",F1E0E88645C3ECEAB58B83AEF2B3ADD7"
+msgid "Пожалуйста, поднимите меня к храму!"
+msgstr "Please take me to the temple!"
+
+#. Key:	F22C6941430A320A9132C7A91E3B473D
+#. SourceLocation:	/Game/JamMap.JamMap:PersistentLevel.TaskMillie.failText
+#: /Game/JamMap.JamMap:PersistentLevel.TaskMillie.failText
+msgctxt ",F22C6941430A320A9132C7A91E3B473D"
+msgid "Что ж, со временем мы построим новую"
+msgstr "Well, in time we will build a new one"
+
+#. Key:	F875004D445DBB5F820E9B9FB0D76032
+#. SourceLocation:	/Game/JamMap.JamMap:PersistentLevel.TaskPereezd.failText
+#: /Game/JamMap.JamMap:PersistentLevel.TaskPereezd.failText
+msgctxt ",F875004D445DBB5F820E9B9FB0D76032"
+msgid "Мой домик рухнул... Придётся пожить у соседей, пока не построю новый."
+msgstr "My house collapsed ... I'll have to live with my neighbors until I build a new one."
+
+#. Key:	FF5A852C45F7D24C61B12CA66EC98413
+#. SourceLocation:	/Game/BP/UI/Menu.Menu_C:WidgetTree.TextBlock_2.Text
+#: /Game/BP/UI/Menu.Menu_C:WidgetTree.TextBlock_2.Text
+msgctxt ",FF5A852C45F7D24C61B12CA66EC98413"
+msgid "Смотрим поближе:\r\nA — D: вращайте палочки\r\nW — S: приближайте и отводите палочки\r\nMouse Right: регулируйте силу сжатия палочек\r\nMouse Left: перемещение по острову\r\nSpace: вернуться к общему виду"
+msgstr "When in closer look:\r\nA - D: rotate the sticks\r\nW - S: move sticks vertically\r\nMouse Right: adjust the grip strength of the sticks\r\nMouse Left: move around the island\r\nSpace: return to far view"
+
+#. Key:	Constants
+#. SourceLocation:	/Game/VirtualReality/Mannequin/Character/Materials/M_HandMat.M_HandMat:MaterialExpressionConstant_0.MenuCategories(0).MenuCategories
+#: /Game/VirtualReality/Mannequin/Character/Materials/M_HandMat.M_HandMat:MaterialExpressionConstant_0.MenuCategories(0).MenuCategories
+msgctxt "MaterialExpression,Constants"
+msgid "Constants"
+msgstr ""
+
+#. Key:	Coordinates
+#. SourceLocation:	/Game/VirtualReality/Materials/MF_OccludedPixels.MF_OccludedPixels:MaterialExpressionWorldPosition_2.MenuCategories(0).MenuCategories
+#: /Game/VirtualReality/Materials/MF_OccludedPixels.MF_OccludedPixels:MaterialExpressionWorldPosition_2.MenuCategories(0).MenuCategories
+msgctxt "MaterialExpression,Coordinates"
+msgid "Coordinates"
+msgstr ""
+
+#. Key:	Depth
+#. SourceLocation:	/Game/VirtualReality/Materials/MF_OccludedPixels.MF_OccludedPixels:MaterialExpressionSceneDepth_2.MenuCategories(0).MenuCategories
+#: /Game/VirtualReality/Materials/MF_OccludedPixels.MF_OccludedPixels:MaterialExpressionSceneDepth_2.MenuCategories(0).MenuCategories
+msgctxt "MaterialExpression,Depth"
+msgid "Depth"
+msgstr ""
+
+#. Key:	Functions
+#. SourceLocation:	/Game/VirtualReality/Materials/MF_OccludedPixels.MF_OccludedPixels:MaterialExpressionFunctionOutput_0.MenuCategories(0).MenuCategories
+#: /Game/VirtualReality/Materials/MF_OccludedPixels.MF_OccludedPixels:MaterialExpressionFunctionOutput_0.MenuCategories(0).MenuCategories
+msgctxt "MaterialExpression,Functions"
+msgid "Functions"
+msgstr ""
+
+#. Key:	Math
+#. SourceLocation:	/Game/VirtualReality/Mannequin/Character/Materials/M_HandMat.M_HandMat:MaterialExpressionMultiply_0.MenuCategories(0).MenuCategories
+#: /Game/VirtualReality/Mannequin/Character/Materials/M_HandMat.M_HandMat:MaterialExpressionMultiply_0.MenuCategories(0).MenuCategories
+msgctxt "MaterialExpression,Math"
+msgid "Math"
+msgstr ""
+
+#. Key:	Parameters
+#. SourceLocation:	/Game/VirtualReality/Mannequin/Character/Materials/M_HandMat.M_HandMat:MaterialExpressionTextureSampleParameter2D_2.MenuCategories(1).MenuCategories
+#: /Game/VirtualReality/Mannequin/Character/Materials/M_HandMat.M_HandMat:MaterialExpressionTextureSampleParameter2D_2.MenuCategories(1).MenuCategories
+msgctxt "MaterialExpression,Parameters"
+msgid "Parameters"
+msgstr ""
+
+#. Key:	Texture
+#. SourceLocation:	/Game/VirtualReality/Mannequin/Character/Materials/M_HandMat.M_HandMat:MaterialExpressionTextureSampleParameter2D_2.MenuCategories(0).MenuCategories
+#: /Game/VirtualReality/Mannequin/Character/Materials/M_HandMat.M_HandMat:MaterialExpressionTextureSampleParameter2D_2.MenuCategories(0).MenuCategories
+msgctxt "MaterialExpression,Texture"
+msgid "Texture"
+msgstr ""
+
+#. Key:	Utility
+#. SourceLocation:	/Game/VirtualReality/Materials/MF_OccludedPixels.MF_OccludedPixels:MaterialExpressionComment_2.MenuCategories(0).MenuCategories
+#: /Game/VirtualReality/Materials/MF_OccludedPixels.MF_OccludedPixels:MaterialExpressionComment_2.MenuCategories(0).MenuCategories
+msgctxt "MaterialExpression,Utility"
+msgid "Utility"
+msgstr ""
+
+#. Key:	VectorOps
+#. SourceLocation:	/Game/VirtualReality/Materials/M_ArcEndpoint.M_ArcEndpoint:MaterialExpressionComponentMask_3.MenuCategories(1).MenuCategories
+#: /Game/VirtualReality/Materials/M_ArcEndpoint.M_ArcEndpoint:MaterialExpressionComponentMask_3.MenuCategories(1).MenuCategories
+msgctxt "MaterialExpression,VectorOps"
+msgid "VectorOps"
+msgstr ""
+
+#. Key:	Vectors
+#. SourceLocation:	/Game/VirtualReality/Materials/M_ArcEndpoint.M_ArcEndpoint:MaterialExpressionConstant2Vector_1.MenuCategories(1).MenuCategories
+#: /Game/VirtualReality/Materials/M_ArcEndpoint.M_ArcEndpoint:MaterialExpressionConstant2Vector_1.MenuCategories(1).MenuCategories
+msgctxt "MaterialExpression,Vectors"
+msgid "Vectors"
+msgstr ""
+
